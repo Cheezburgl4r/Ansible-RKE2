@@ -1,2 +1,1 @@
-Broken:
--Cilium install - Canal is still deployed via RKE2 manifests, even though the templates for the cluster config.yaml show CNI as Cilium
+Original code: https://github.com/JamesTurland/JimsGarage/tree/main/Ansible/Playbooks/RKE2
